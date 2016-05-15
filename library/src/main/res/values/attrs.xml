@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialTextEdit">
+        <attr name="floatingLabelAble" format="boolean"/>
+        <attr name="floatingLabelText" format="string"/>
+        <attr name="floatingLabelTextColor" format="color"/>
+        <attr name="floatingLabelTextSize" format="dimension"/>
+        <attr name="baseColor" format="color"/>
+        <attr name="primaryColor" format="color"/>
+        <attr name="underlineColor" format="color"/>
+        <attr name="errorTextColor" format="color"/>
+    </declare-styleable>
+</resources>
